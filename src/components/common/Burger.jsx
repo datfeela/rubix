@@ -18,6 +18,7 @@ const SvgStyled = styled.svg`
     transition: all 0.3s ease 0s;
 
     &:hover {
+        cursor: pointer;
         fill: #fff;
     }
 `;

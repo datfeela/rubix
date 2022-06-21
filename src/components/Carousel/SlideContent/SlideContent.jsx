@@ -40,7 +40,7 @@ const Title = styled.h1`
 `;
 
 const Text = styled.h4`
-    /* font-family: Rubik; */
+    font-family: "Rubik", sans-serif;
     margin-bottom: 40px;
     max-width: 58.8%;
     font-size: 20px;

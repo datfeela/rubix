@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rubix/static/css/main.a0448596.css",
+    "main.js": "/rubix/static/js/main.53ed07d8.js",
+    "static/js/787.a5a0c6fe.chunk.js": "/rubix/static/js/787.a5a0c6fe.chunk.js",
+    "static/media/img1.png": "/rubix/static/media/img1.d73018db7a6b99798bae.png",
+    "static/media/img3.png": "/rubix/static/media/img3.07c065165a1e047e711e.png",
+    "static/media/img2.png": "/rubix/static/media/img2.22bf3575db871afaab07.png",
+    "static/media/logo.svg": "/rubix/static/media/logo.45de7e461154b0521237eab9b8000d83.svg",
+    "index.html": "/rubix/index.html",
+    "static/media/burger.svg": "/rubix/static/media/burger.d1731fb92264cfd95b69704894eee2b0.svg",
+    "main.a0448596.css.map": "/rubix/static/css/main.a0448596.css.map",
+    "main.53ed07d8.js.map": "/rubix/static/js/main.53ed07d8.js.map",
+    "787.a5a0c6fe.chunk.js.map": "/rubix/static/js/787.a5a0c6fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0448596.css",
+    "static/js/main.53ed07d8.js"
+  ]
+}
